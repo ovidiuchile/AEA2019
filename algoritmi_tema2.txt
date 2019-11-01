@@ -1,5 +1,3 @@
-# AEA2019
-
 - custom heuristic
     - https://arxiv.org/pdf/1509.08764.pdf
     - python implementation available and downloaded and functional

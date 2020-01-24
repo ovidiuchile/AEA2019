@@ -1,10 +1,11 @@
 # Traveling Salesman Problem with a Drone - TSP-D
 **Authors**: Chile Ovidiu-Benone MOC2, Pintilie Andrei MOC1
+
 _AEA2019_
 
 
 
-**The Traveling Salesman Problem with a Drone (TSP-D)** is an extension of the Traveling Salesman Problem (TSP – also known as Traveling Salesman Person). In the TSP problem, a truck has to deliver a parcel to $n$ houses, and must do it so by only visiting each house once. Basically, it is the same as finding the shortest Hamiltonian cycle of an undirected graph.
+**The Traveling Salesman Problem with a Drone (TSP-D)** is an extension of the Traveling Salesman Problem (TSP â€“ also known as Traveling Salesman Person). In the TSP problem, a truck has to deliver a parcel to _n_ houses, and must do it so by only visiting each house once. Basically, it is the same as finding the shortest Hamiltonian cycle of an undirected graph.
 
 The TSPd problem introduces the concept of a drone which helps with the delivery: the drone can get a single parcel from the truck and deliver it to one of the houses; after doing so, it must go back to the truck to get another parcel. This synchronization between the truck and the drone can only be done at one of the house.
 
